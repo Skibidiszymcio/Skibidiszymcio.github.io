@@ -11,7 +11,7 @@ header {
 }
 
 body {
-    background-color: #EFF1F3;
+    background-color: #FFFFFFF;
 }
 
 nav {
@@ -52,4 +52,5 @@ footer {
   padding: 15px;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+
 }
